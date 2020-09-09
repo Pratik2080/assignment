@@ -1,0 +1,45 @@
+.center {
+    text-align: center;
+    width: 70%;
+    /* border: 3px solid green; */
+    padding: 5px;
+  }
+  .c1 {
+    margin-left: 400px;
+    width: 50%;
+    /* border: 3px solid green; */
+    padding: 5px;
+  }
+  #s1
+  {
+  }
+  a
+  {
+      text-decoration: unset;
+      padding: 20px;
+  }
+  .c2
+  {indent-text: 20em;}
+  .j1
+  {
+    height: 500px;
+    width: 500px;
+  }
+  .p1
+  {
+    text-align: justify;
+    height: 400px;
+    width: 400px;
+    background-color: cornsilk;
+  }
+  .p2
+  {
+    border: 1px solid black;
+    padding: 50px;
+    color: aqua;
+    background-color: blueviolet;
+  }
+  body
+  {
+      background-color: cornsilk;
+  }
